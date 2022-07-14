@@ -3361,7 +3361,7 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 ┌─❖ مـرحبـاً 🤗 」
 └┬❖ 「 ${pushname} 」
 ││✑「مـعـك بـوت غـوجـو 👋🏻」◣
-││✑「مـن مـمـلـكـة غولد 🤗」◣
+||✑「مـن احمد صلاح🤗」◣
 │└───────────────┈ ⳹
  「 مـعـلـومـات عـن الـبـوت 」
 │✙「 اسـم الـبـوت 」◣ : 「 غوجو ✨🤞🏻 」◣
@@ -3416,7 +3416,7 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 ┌─❖ مـرحبـاً 🤗 」
 └┬❖ 「 ${pushname} 」
 ││✑「مـعـك بـوت غـوجـو 👋🏻」◣
-││✑「مـن مـمـلـكـة غولد 🤗」◣
+││✑「مـن احمد صلاح 🤗」◣
 │└───────────────┈ ⳹
  「 مـعـلـومـات عـن الـبـوت 」
 │✙「 اسـم الـبـوت 」◣ : 「 غوجو ✨🤞🏻 」◣
@@ -3462,7 +3462,7 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
                 listMessage :{
                     title: `「 مرحبا👋🏻  」◣
 		    「 معك بوت غوجو 🤗 」◣
-		    「 من مملكة غولد 🏮」◣`,
+		     「 احمد صلاح 🏮」◣`,
                     description: `「 اختر قائمة من فضلك 」◣`,
                     buttonText: "「 القائمة 」◣",
                     footerText: `「 تحت الصيانة ⚙️」◣`,
