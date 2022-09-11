@@ -27,7 +27,7 @@ global.botname = '♛ L بوت ♛'
 global.footer = ' L بوت ♛'
 global.ig = 'https://github.com/nexusNw'
 global.region = 'India, South India, Kerala'
-global.sc = 'http://solo.to/animekingdom'
+
 global.myweb = 'AYOUB'
 global.packname = 'https://Wa.Me/+212656152459'
 global.author = '[ AYOUB ]'
