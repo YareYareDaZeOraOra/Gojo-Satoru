@@ -29,20 +29,20 @@ global.ig = 'https://github.com/nexusNw'
 global.region = 'India, South India, Kerala'
 global.sc = 'https://chat.whatsapp.com/CKLmAGJo3iw5AvNM1KZee3'
 global.myweb = 'https://chat.whatsapp.com/Hz0024Gn6NpFPs1zUblnyK'
-global.packname = 'ال 𓆩💫𓆪  عمنا'
-global.author = '[ ⋆ 🍇  🎀  ال عمنا  🎀  🍇 ⋆ ]'
+global.packname = 'GOLDEN  𓆩💫𓆪  DAWN'
+global.author = '[ ⋆ 🍇  🎀  GOLDEN DAWN  🎀  🍇 ⋆ ]'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
     success: '✓',
-    admin: '*「 هـذا الامـر فـقـط لـ الرجال زي أيوب تمرجل وحاول مجددا 」◣*',
+    admin: '*「 💫GOLDEN.DAWN هـذا الامـر فـقـط لـمشرفين💫  」◣*',
     botAdmin: '*「 اعـطـنـي إشـراف لـتـفـعـيـل  الامـر 」◣*',
-    owner: '*「 هـذا الامـر فـقـط لـ الـمـالـكين زي أيوب تمرجل وحاول مجددا 」◣*',
+    owner: '*「 هـذا الامـر فـقـط لـ مالك البوت(ال💫) 」◣*',
     group: '*「 هـذا الامـر فـي الـمـجـمـوعـات فـقـط 」◣*',
     private: '*「 هـذا الامـر فـي الـخـاص فـقـط 」◣*',
     bot: '*「 هـذا الامـر مـخـصـص لـ الـبـوت 」◣*',
-    wait: '*「 انـتـظـر مـن فـضـلـك + ال عمك 」◣*',
+    wait: '*「 انـتـظـر مـن فـضـلـك 」◣*',
     error: 'Error! Maybe Api Key Is Expired🤔!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 1000 Hours',
 }
