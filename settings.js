@@ -19,26 +19,26 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['96891103640']
-global.premium = ['96891103640']
-global.ownernomer = '96891103640'
-global.ownername = '♛ الامبراطور اياتو ♛'
-global.botname = '♛ غوجو بوت ♛'
-global.footer = '♛ غوجو بوت ♛'
+global.owner = ['212656152459']
+global.premium = ['212656152459']
+global.ownernomer = '212656152459'
+global.ownername = '♛ الوزير ال ♛'
+global.botname = '♛ L بوت ♛'
+global.footer = ' L بوت ♛'
 global.ig = 'https://github.com/nexusNw'
 global.region = 'India, South India, Kerala'
-global.sc = 'https://chat.whatsapp.com/KodtgrEaF0O1vSqw0e1k09'
-global.myweb = 'https://youtube.com/channel/UCPvrnWknQrgCSIeobXMP0Uw'
-global.packname = 'https://Wa.Me/+96891103640'
-global.author = '♛ غوجو بوت ♛'
+عالمي . sc  =  'https://chat.whatsapp.com/Hz0024Gn6NpFPs1zUblnyK'
+عالمي . myweb  =  'http://solo.to/golden.dawn'
+global.packname = 'GOLDEN  𓆩💫𓆪  DAWN'
+global.author = '[ ⋆ 🍇  🎀  GOLDEN DAWN  🎀  🍇 ⋆ ]'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
     success: '✓',
-    admin: '*「 هـذا الامـر فـقـط لـ المـشـرفـيـن 」◣*',
+    admin: '*「 💫GOLDEN.DAWN هـذا الامـر فـقـط لـمشرفين💫  」◣*',
     botAdmin: '*「 اعـطـنـي إشـراف لـتـفـعـيـل  الامـر 」◣*',
-    owner: '*「 هـذا الامـر فـقـط لـ الـمـالـك 」◣*',
+    owner: '*「 هـذا الامـر فـقـط لـ مالك البوت(ال💫) 」◣*',
     group: '*「 هـذا الامـر فـي الـمـجـمـوعـات فـقـط 」◣*',
     private: '*「 هـذا الامـر فـي الـخـاص فـقـط 」◣*',
     bot: '*「 هـذا الامـر مـخـصـص لـ الـبـوت 」◣*',
