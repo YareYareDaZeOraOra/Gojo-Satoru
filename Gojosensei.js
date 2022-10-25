@@ -1746,20 +1746,39 @@ break
                     await sleep(1500)
                     let btn = [{
                                 urlButton: {
-                                    displayText:
+
+                                    displayText: '「 رابط الاستقبال 」「📌」◣',
+
+                                    url: `${sc}`
+
                                 }
+
                             }, {
+
                                 urlButton: {
-                                    
+
+                                    displayText: '「 موقع المملكة 」「📍」◣',
+
+                                    url: `${myweb}`
+
                                 }
+
                             }, {
+
                                 quickReplyButton: {
+
                                     displayText: '「 القائمة 」「🗒️」◣',
+
                                     id: 'اوامر'
+
                                 }
+
                             }, {
+
                                 quickReplyButton: {
+
                                     displayText: '「 المالك 」「👤」◣',
+
                                     id: 'owner'
                                 }
                             }]
